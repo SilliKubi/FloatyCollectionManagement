@@ -1,1 +1,8 @@
-["url1"]
+gamelist = {
+  {
+  gamename: Floaty's 1,
+  picture: "imgurl",
+  description: "testtext",
+  AchieveCount: 1
+  }
+}
