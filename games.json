@@ -3,6 +3,7 @@
     "gamename": "",
     "id": 0,
     "desc": "",
-    "HasAchievements": false
+    "HasAchievements": false,
+    "url": "example.com"
   }
 }
