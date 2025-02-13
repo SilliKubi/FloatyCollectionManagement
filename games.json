@@ -19,7 +19,7 @@
     "music": "URI",
     "APIID": "766825"
   }
-  "game1": {
+  "game3": {
     "gamename": "One Night At Floaty's 3",
     "id": 1,
     "desc": "Kartel has found an abandoned location, He is collecting notes on the animatronics.",
@@ -29,7 +29,7 @@
     "music": "URI",
     "APIID": "766825"
   },
-  "game1": {
+  "game4": {
     "gamename": "One Night At Floaty's 4",
     "id": 1,
     "desc": "With Kartel's information he disquises himself to enter FLOATCORP and into Sector 4",
