@@ -8,5 +8,15 @@
     "picture": "URI",
     "music": "URI",
     "APIID": "766825"
+  },
+  "game2": {
+    "gamename": "One Night At Floaty's 2",
+    "id": 2,
+    "desc": "The second rewrite, The one with the perfect finale night!",
+    "HasAchievements": false,
+    "url": "",
+    "picture": "URI",
+    "music": "URI",
+    "APIID": "766825"
   }
 }
