@@ -18,7 +18,7 @@
     "picture": "URI",
     "music": "URI",
     "APIID": "766825"
-  }
+  },
   "game3": {
     "gamename": "One Night At Floaty's 3",
     "id": 1,
@@ -38,5 +38,5 @@
     "picture": "URI",
     "music": "URI",
     "APIID": "766825"
-  },
+  }
 }
