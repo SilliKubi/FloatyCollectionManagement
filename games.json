@@ -19,4 +19,24 @@
     "music": "URI",
     "APIID": "766825"
   }
+  "game1": {
+    "gamename": "One Night At Floaty's 3",
+    "id": 1,
+    "desc": "Kartel has found an abandoned location, He is collecting notes on the animatronics.",
+    "HasAchievements": false,
+    "url": "",
+    "picture": "URI",
+    "music": "URI",
+    "APIID": "766825"
+  },
+  "game1": {
+    "gamename": "One Night At Floaty's 4",
+    "id": 1,
+    "desc": "With Kartel's information he disquises himself to enter FLOATCORP and into Sector 4",
+    "HasAchievements": false,
+    "url": "",
+    "picture": "URI",
+    "music": "URI",
+    "APIID": "766825"
+  },
 }
